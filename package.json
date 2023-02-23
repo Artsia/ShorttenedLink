@@ -1,0 +1,11 @@
+{
+  "name": "shorttenedlink",
+  "version": "1.0.0",
+  "description": "shortens url links",
+  "main": "script.js",
+  "scripts": {
+    "start": "script.js"
+  },
+  "author": "phillip k (looking for junior level  position)",
+  "license": "ISC"
+}
