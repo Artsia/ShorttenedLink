@@ -23,7 +23,7 @@ function fTruncateURL() {
     }).then(response => response.text())
         .then(result => {
             shortURL = result;
-            truncResultId.textContent = shortURL;
+            truncResultId.textContent = shortURL; /**send back short url from api */
             console.log(shortURL);
         })
         .catch((e) => {
